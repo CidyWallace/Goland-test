@@ -17,10 +17,10 @@ func main() {
 	fmt.Println("Arquivo Struct")
 
 	var user usuario
-	user.nome = "Wallace"
+	user.nome = "Luan"
 	user.idade = 20
 
-	ender := endereco{"Rua Paulo Jóse dos Santos", 224}
+	ender := endereco{"Rua das Palmeiras", 150}
 
 	user2 := usuario{"Marcos", 35, ender}
 

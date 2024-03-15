@@ -6,8 +6,8 @@ func main() {
 	fmt.Println("Maps")
 
 	usuario := map[string]string{
-		"nome":      "cidy",
-		"sobrenome": "wallace",
+		"nome":      "Paulo",
+		"sobrenome": "Fernandes",
 	}
 
 	fmt.Println(usuario["sobrenome"])

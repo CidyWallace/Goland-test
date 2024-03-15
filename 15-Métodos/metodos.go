@@ -24,7 +24,7 @@ func (u *usuario) setNome(n string) {
 }
 
 func main() {
-	user := usuario{"Cidy", 20}
+	user := usuario{"Felipe", 20}
 	user.salvar()
 
 	user2 := usuario{"Marcos", 35}
